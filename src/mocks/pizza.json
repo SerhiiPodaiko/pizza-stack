@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "pizza2.png",
+    "weight": 555,
+    "title": "Піца Мангеттен",
+    "ingredients": "(подвійна порція грибів), Гриби, Моцарела, Пепероні, Соус Альфредо",
+    "price": 215
+  },
+  {
+    "id": 2,
+    "image": "pizza2.png",
+    "weight": 554,
+    "title": "Піца Пепероні з томатами",
+    "ingredients": "Моцарела, Пепероні, Помідори, Соус Барбекю",
+    "price": 215
+  },
+  {
+    "id": 3,
+    "image": "pizza3.png",
+    "weight": 545,
+    "title": "Піца Шинка та гриби",
+    "ingredients": "Шинка, Гриби, Моцарела, Соус PizzaStack",
+    "price": 215
+  },
+  {
+    "id": 4,
+    "image": "pizza4.png",
+    "weight": 550,
+    "title": "Піца Техас",
+    "ingredients": "Кукурудза, Цибуля, Гриби, Ковбаски баварські, Моцарела, Соус Барбекю",
+    "price": 215
+  },
+  {
+    "id": 5,
+    "image": "pizza5.png",
+    "weight": 560,
+    "title": "Піца Пепероні",
+    "ingredients": "Моцарела, Пепероні, Соус PizzaStack",
+    "price": 250
+  },
+  {
+    "id": 6,
+    "image": "pizza6.png",
+    "weight": 552,
+    "title": "Піца Маргаріта",
+    "ingredients": "(подвійна порція моцарели), Моцарела, Соус PizzaStack",
+    "price": 250
+  }
+]
